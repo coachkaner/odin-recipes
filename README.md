@@ -1,6 +1,5 @@
 # Introduction
 
-<<<<<<< HEAD
 For this project, I built a basic HTML recipe website.
 
 [**Link to the live site can be found here**](https://coachkaner.github.io/odin-recipes/)
